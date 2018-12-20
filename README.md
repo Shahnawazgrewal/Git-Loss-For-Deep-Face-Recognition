@@ -35,7 +35,7 @@ If you use the loss function described, please cite the paper. Please note that 
 @article{calefati2018git,
   title={Git Loss for Deep Face Recognition},
   author={Calefati, Alessandro and Janjua, Muhammad Kamran and Nawaz, Shah and Gallo, Ignazio},
-  journal={arXiv preprint arXiv:1807.08512},
+  journal={British Machine Vision Conference (BMVC)},
   year={2018}
 }
 ```
